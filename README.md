@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=salinashf&show_icons=true">
+
+- :sunglasses: I'm Henry
+- :house: I live in Quito/Ecuador
+- :snake: I like Python
+- :coffee: I like Java
+- 🐧  And Linux 
+-  🏢 In recent years I have worked with IBM middleware tools
+- 📜 I put some useful scripts as GITS  [My Gist](https://gist.github.com/salinashf)
